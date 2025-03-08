@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Пример с Layout</string>
+    <string name="hello_world">Привет, мир!</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="go_to_next">Перейти дальше</string>
+    <string name="back">Назад</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="frame_layout">Frame Layout</string>
+</resources>
