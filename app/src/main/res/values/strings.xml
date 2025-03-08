@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCalc</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="enter_text">Enter text</string>
+    <string name="go_to_next">Go to Next</string>
+    <string name="back">Back</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="frame_layout">Frame Layout</string>
+</resources>
